@@ -1,13 +1,13 @@
 # DIO Microsoft Azure AI Fundamentals
 ```
-Marcelo Passamai Mendes
+Repositório para entregas de atividades do bootcamp Microsoft Azure AI Fundamentals AI-900
 ```
 <hr>
-<center>
-    <img src="./img/logo.webp" width="100">
-</center>
+
+<img src="./img/logo.webp" style="width:10%; margin-left:45%">
+
 <hr>
 
-## 1. fundamentos de machine learning 
-
-## 2. Funcamentos de visão computacional
+## Atividades
+[🧪fundamentos de machine learning](./fundamentos_machine_learning/README.md)  
+[🧪fundamentos de machine learning](./fundamentos_machine_learning/README.md)  
